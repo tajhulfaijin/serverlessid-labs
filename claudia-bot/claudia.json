@@ -1,0 +1,11 @@
+{
+  "lambda": {
+    "role": "serverlessid-claudia-bot-executor",
+    "name": "serverlessid-claudia-bot",
+    "region": "ap-southeast-1"
+  },
+  "api": {
+    "id": "cc9ybvnq8a",
+    "module": "bot"
+  }
+}

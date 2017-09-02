@@ -1,0 +1,26 @@
+{
+  "name": "serverlessid-claudia-bot",
+  "version": "1.0.0",
+  "description": "Contoh implementasi claudia-chat-bot",
+  "main": "bot.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/tajhulfaijin/serverlessid-labs.git"
+  },
+  "keywords": [
+    "claudiajs-chatbot"
+  ],
+  "author": "Tajhul Faijin <mrazoelcalm@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tajhulfaijin/serverlessid-labs/issues"
+  },
+  "homepage": "https://github.com/tajhulfaijin/serverlessid-labs#readme",
+  "dependencies": {
+    "claudia-bot-builder": "^2.15.0",
+    "huh": "^2.0.1"
+  }
+}
