@@ -6,4 +6,4 @@ Join US on Facebook group : [Serverless ID](https://web.facebook.com/groups/serv
 
 ## Recent update
 **03 Sept 2017**
-* Example Facebook chatbot using claudia chat builder
+* [Example Facebook chatbot using claudia chat builder](https://github.com/tajhulfaijin/serverlessid-labs/tree/master/claudia-bot)
