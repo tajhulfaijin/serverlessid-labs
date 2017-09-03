@@ -1,8 +1,8 @@
-# serverlessid-labs
+# Serverlessid-labs
 
 This repository containing source code exercise following blog post from [Serverless Indonesia Blog](blog.serverless.id)
 
-Join our group on facebook : [Serverless ID](https://web.facebook.com/groups/serverless.indonesia/)
+Join US on Facebook group : [Serverless ID](https://web.facebook.com/groups/serverless.indonesia/)
 
 ## Recent update
 **03 Sept 2017**
